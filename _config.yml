@@ -1,5 +1,5 @@
 # Site settings
-title: APMOBGALERY14
+title: APMOB GALERY14
 email: rizki.syahputra@students.uin-suska.ac.id
 url: https://example.github.io
 description: "Sebuah halaman berisi galery dari mahasiswa-mahasiswa fakultas sains dan teknology UIN SUSKA Riau mata kuliah Aplication Mobile kelas A 2015/2016 Rizki Syahputra,Reynaldi Gatra Utama,Gusfa Leo Firnando,Rolly Fahdial dan Argawanda Ardian.Silahkan menikmati apa-apa saja yang kami tampilkan di bawah ini"
@@ -10,20 +10,20 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: Rizki Syahputra,Reynaldi Gatra Utama,Gusfa Leo Firnando,Rolly Fahdial dan Argawanda Ardian
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
+    url: https://twitter.com/rizky2424
+  - title: facebook/ourgames
+    url: https://apps.facebook.com/teseqfb
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/apmobgalery14
 
 # Build settings
 markdown: kramdown
