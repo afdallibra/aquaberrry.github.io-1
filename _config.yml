@@ -1,8 +1,8 @@
 # Site settings
-title: APMOB GALERY14
-email: rizki.syahputra@students.uin-suska.ac.id
+title: Ambil Hikmahnya
+email: aquaberrry@gmail.com
 url: https://example.github.io
-description: "Sebuah halaman berisi galery dari mahasiswa-mahasiswa angkatan 2014 fakultas sains dan teknology UIN SUSKA Riau mata kuliah Aplication Mobile kelas A 2015/2016 Rizki Syahputra, Reynaldi Gatra Utama, Afdhal Arif Amanda Putra, Gusfa Leo Firnando, Rolly Fahdial dan Argawanda Ardian.Silahkan menikmati apa-apa saja yang kami tampilkan di bawah ini"
+description: "Aquaberry adalah web yang berisi multimedia berupa gambar dan musik untuk memenuhi tugas mata kuliah Application Mobile. Mari kita ambil hikmahnya."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,14 +10,10 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Rizki Syahputra,Reynaldi Gatra Utama,Gusfa Leo Firnando,Rolly Fahdial,Afdhal Arif Amanda Putra dan Argawanda Ardian
+footer: Aquaberry | Ambil Hikmahnya
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/rizky2424
-  - title: facebook/ourgames
-    url: https://apps.facebook.com/teseqfb
   - title: Sistem Informasi
     url: http://sif.uin-suska.ac.id
   - title: UINSUSKA
